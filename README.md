@@ -1,4 +1,4 @@
-**:D**Portfólio AluraBooks
+<h1 align="center">Portfólio AluraBooks</h1>
 Projeto em desenvolvimento com estudo HTML/CSS nas aulas Alura em projetos web com responsividade.
 Painel do meu Linkedin
 
