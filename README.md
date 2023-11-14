@@ -23,7 +23,7 @@ Projeto em desenvolvimento com estudo HTML/CSS nas aulas Alura em projetos web c
 * # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Terá acesso aos links ancorados com direcionados conteúdos. Cerne do projeto Alura Books é o usuário ter acesso aos livros e autores, podendo favoritar seus livros favorito e adicionar no carrinho de compras.
-- `Funcionalidade 2`: A página também possui responsividade para 3 dispositios: Tbalets, Desktops e IPhone.
+- `Funcionalidade 2`: A página também possui responsividade para 3 dispositios: Tablets, Desktops e IPhone.
 * [Acesso ao Projeto](https://rafaelunderscorerdrigs.github.io/Alura_Books_Portf-lio/)
 * [Tecnologias utilizadas](HTML E CSS)
 
