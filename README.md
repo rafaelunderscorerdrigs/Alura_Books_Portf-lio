@@ -27,18 +27,6 @@ Projeto em desenvolvimento com estudo HTML/CSS nas aulas Alura em projetos web c
 * [Acesso ao Projeto](https://rafaelunderscorerdrigs.github.io/Alura_Books_Portf-lio/)
 * [Tecnologias utilizadas](HTML E CSS)
 
-  # Autores
-
-
-# Autores
-
-| [<img loading="lazy" src="" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
-
-
-
-
-
 
 
 
@@ -46,13 +34,6 @@ Projeto em desenvolvimento com estudo HTML/CSS nas aulas Alura em projetos web c
 
 
   
-[<img loading="lazy" src="https://github.com/rafaelunderscorerdrigs/Alura_Books_Portf-lio/assets/130865143/0a33a0d6-1dbc-441e-9d77-1b5d9ed11103"
- width=115><br><sub>Rafael Rodrigues</sub>](https://github.com/rafaelunderscorerdrigs/) 
-
-| [<img loading="lazy" src="https://github.com/rafaelunderscorerdrigs/Alura_Books_Portf-lio/assets/130865143/080a578f-0882-4af5-bc88-81e81d49c9c8"
- width=115><br><sub>Alura</sub>](https://www.alura.com.br) |
- | :---: |
-
 
 
 
